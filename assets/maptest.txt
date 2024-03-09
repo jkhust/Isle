@@ -1,0 +1,66 @@
+
+clear
+addpatch 0 32 0 32 32 0 32 32 32 1
+lightenabled 0 0
+lighttype 0 1
+lightintensity 0 5000
+lightrgb 0 1 1 1
+lightpos 0 0 0 0
+lightend 0 0 0 0
+lightenabled 1 1
+lighttype 1 1
+lightintensity 1 5000
+lightrgb 1 1 1 1
+lightpos 1 27.1189 578 388.486
+lightend 1 0 0 0
+lightenabled 2 0
+lighttype 2 1
+lightintensity 2 5000
+lightrgb 2 1 1 1
+lightpos 2 0 0 0
+lightend 2 0 0 0
+lightenabled 3 0
+lighttype 3 1
+lightintensity 3 5000
+lightrgb 3 1 1 1
+lightpos 3 0 0 0
+lightend 3 0 0 0
+lightenabled 4 0
+lighttype 4 1
+lightintensity 4 5000
+lightrgb 4 1 1 1
+lightpos 4 0 0 0
+lightend 4 0 0 0
+lightenabled 5 0
+lighttype 5 1
+lightintensity 5 5000
+lightrgb 5 1 1 1
+lightpos 5 0 0 0
+lightend 5 0 0 0
+lightenabled 6 0
+lighttype 6 1
+lightintensity 6 5000
+lightrgb 6 1 1 1
+lightpos 6 0 0 0
+lightend 6 0 0 0
+lightenabled 7 0
+lighttype 7 1
+lightintensity 7 5000
+lightrgb 7 1 1 1
+lightpos 7 0 0 0
+lightend 7 0 0 0
+lightenabled 8 0
+lighttype 8 1
+lightintensity 8 5000
+lightrgb 8 1 1 1
+lightpos 8 0 0 0
+lightend 8 0 0 0
+lightenabled 9 0
+lighttype 9 1
+lightintensity 9 5000
+lightrgb 9 1 1 1
+lightpos 9 0 0 0
+lightend 9 0 0 0
+
+editcam -142.143 955.756 -142.143 47.02 -64.16
+playcam 0 815 0 45 -35 1
